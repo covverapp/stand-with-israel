@@ -17,7 +17,8 @@ Add a `Stand With Israel` banner to your website (responsive and browser compati
 ></iframe>
 ```
 
-<img width="1304" alt="image" src="https://github.com/covverapp/stand-with-israel/assets/889418/9a52025c-6963-48d7-b894-8764d47b263e">
+<img width="1340" alt="image" src="https://github.com/covverapp/stand-with-israel/assets/889418/2f1967be-198b-4d94-aeae-36d42ff0fb1f">
+
 
 # Bugs / suggestions
 Feel free to create issues or PRs with bugfixes or suggestions
