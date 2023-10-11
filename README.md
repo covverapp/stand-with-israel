@@ -17,4 +17,5 @@ Add a stand with Israel banner to your website:
 ></iframe>
 ```
 
-<img width="980" alt="image" src="https://github.com/covverapp/stand-with-israel/assets/889418/ce395a8f-7606-44d3-9a95-45b3f40acc16">
+<img width="1304" alt="image" src="https://github.com/covverapp/stand-with-israel/assets/889418/9a52025c-6963-48d7-b894-8764d47b263e">
+
