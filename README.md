@@ -1,4 +1,4 @@
-# stand-with-israel
+# Stand With Israel Website Banner
 
 Support the people of Israel as they face the aftermath of the atrocities committed by Hamas on October 7th
 
@@ -31,9 +31,17 @@ Add a `Stand With Israel` banner to your website (responsive and browser compati
     ></iframe>
 ```
 
-<img width="1340" alt="image" src="https://github.com/covverapp/stand-with-israel/assets/889418/2f1967be-198b-4d94-aeae-36d42ff0fb1f">
+<img width="1340" alt="image" src="https://github.com/covverapp/stand-with-israel/assets/889418/2f1967be-198b-4d94-aeae-36d42ff0fb1f">  
+<br/>
+<br/>  
+  
+With links to:
 
+- Joe biden's statement: https://youtu.be/b10ymsjOF3w?si=5x1io6dDn_Cgqfrn
+- #HamasisISIS hashtag: https://twitter.com/hashtag/HamasisISIS
+- Donation links: https://giveback.co.il/category/Iron%20swords
+- Take action and more links: https://www.standwithisrael.co.il/
 
 # Bugs / suggestions
-Feel free to create issues or PRs with bugfixes or suggestions
+Feel free to create issues or PRs with bugfixes or suggestions  
 We want to keep it simple, emotional, English speaking, and actionable
