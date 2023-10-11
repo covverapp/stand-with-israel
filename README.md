@@ -2,7 +2,7 @@
 
 Support the people of Israel as they face the aftermath of the atrocities committed by Hamas on October 7th
 
-Add a stand with Israel banner to your website:
+Add a `Stand With Israel` banner to your website:
 
 ```html
 <iframe
