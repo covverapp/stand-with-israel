@@ -2,7 +2,7 @@
 
 Support the people of Israel as they face the aftermath of the atrocities committed by Hamas on October 7th
 
-Add a `Stand With Israel` banner to your website:
+Add a `Stand With Israel` banner to your website (responsive and browser compatible):
 
 ```html
 <iframe
@@ -19,3 +19,6 @@ Add a `Stand With Israel` banner to your website:
 
 <img width="1304" alt="image" src="https://github.com/covverapp/stand-with-israel/assets/889418/9a52025c-6963-48d7-b894-8764d47b263e">
 
+# Bugs / suggestions
+Feel free to create issues or PRs with bugfixes or suggestions
+We want to keep it simple, emotional, English speaking, and actionable
